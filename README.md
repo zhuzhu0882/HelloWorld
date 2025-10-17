@@ -11,7 +11,7 @@
 
 > 🚀 **最新版本**: [v1.0.0](https://github.com/zhuzhu0882/HelloWorld/releases/tag/v1.0.0)
 > 📥 **直接下载**: [BabyLearningApp-debug.apk](https://github.com/zhuzhu0882/HelloWorld/releases/download/v1.0.0/BabyLearningApp-debug.apk)
-> 🔄 **最后更新**: 2025-10-17 19:00
+> 🔄 **最后更新**: 2025-10-17 19:40
 
 ## ✨ 核心功能
 
@@ -74,6 +74,7 @@ HelloWorld/
 
 | 提交哈希 | 提交信息 | 作者 | 日期 |
 |---------|---------|------|------|
+| [`4cea49b`](https://github.com/zhuzhu0882/HelloWorld/commit/4cea49b6dd2cef0ef9bc72610e9e111d304159a9) | Fix category navigation and optimize UI icon sizes | sun | 2025-10-17 |
 | [`19e68c7`](https://github.com/zhuzhu0882/HelloWorld/commit/19e68c7d85a79d2ee49303c4ae54a8ff8d5a8b67) | 添加README自动化使用说明文档 | sun | 2025-10-17 |
 | [`78494ff`](https://github.com/zhuzhu0882/HelloWorld/commit/78494ffa8d18d0905b2eb1321783532d07ad78cc) | 测试自动化README更新和提交系统 | sun | 2025-10-17 |
 | [`7eb4eef`](https://github.com/zhuzhu0882/HelloWorld/commit/7eb4eef0de48fed6a7d82c3d090447af8dd67fb2) | Add comprehensive README with complete git commit history and project documentation | sun | 2025-10-17 |
@@ -85,7 +86,14 @@ HelloWorld/
 ### 📝 详细开发记录
 
 
-#### 🚀 v5.0 - 添加README自动化使用说明文档 (2025-10-17)
+#### 🚀 v5.0 - Fix category navigation and optimize UI icon sizes (2025-10-17)
+**提交**: `4cea49b`
+**作者**: sun
+
+完成了重要功能开发和优化工作。
+
+
+#### 🚀 v4.0 - 添加README自动化使用说明文档 (2025-10-17)
 **提交**: `19e68c7`
 **作者**: sun
 
@@ -106,7 +114,7 @@ HelloWorld/
 
 
 
-#### 🚀 v4.0 - 测试自动化README更新和提交系统 (2025-10-17)
+#### 🚀 v3.0 - 测试自动化README更新和提交系统 (2025-10-17)
 **提交**: `78494ff`
 **作者**: sun
 
@@ -127,7 +135,7 @@ HelloWorld/
 
 
 
-#### 🚀 v3.0 - Add comprehensive README with complete git commit history and project documentation (2025-10-17)
+#### 🚀 v2.0 - Add comprehensive README with complete git commit history and project documentation (2025-10-17)
 **提交**: `7eb4eef`
 **作者**: sun
 
@@ -148,7 +156,7 @@ HelloWorld/
 
 
 
-#### 🚀 v2.0 - Complete Baby Learning App Feature Implementation (2025-10-17)
+#### 🚀 v1.0 - Complete Baby Learning App Feature Implementation (2025-10-17)
 **提交**: `4d7b1ef`
 **作者**: sun
 
@@ -205,13 +213,6 @@ HelloWorld/
 - 实现了经验值和积分奖励
 - 增加了成就徽章系统
 
-
-
-#### 🚀 v1.0 - Implement Complete Baby Learning Chinese Character App Features (2025-10-16)
-**提交**: `bf5985d`
-**作者**: sun
-
-完成了重要功能开发和优化工作。
 
 
 ## 🚀 安装说明
@@ -305,10 +306,10 @@ HelloWorld/
 **🎊 让我们一起为孩子们创造更好的学习体验！**
 
 *最后更新: 2025-10-17*
-*当前版本: 添加README自动化使用说明文档*
+*当前版本: Fix category navigation and optimize UI icon sizes*
 *维护者: [zhuzhu0882](https://github.com/zhuzhu0882)*
 
 ---
 
 🤖 *本README由自动化脚本生成维护*
-🔄 *自动更新时间: 2025-10-17 19:00:17*
+🔄 *自动更新时间: 2025-10-17 19:40:54*
